@@ -27,9 +27,10 @@ body {
 }
 .container1 {
     background-color: rgba(255, 255, 255, 0.945);
-    width: 550px;
+    width: 1200px;
     height: auto;
     border-radius: 3%;
+    padding-top: 20px;
 }
 
 .topLogo {
